@@ -5,10 +5,6 @@
 
 Here are some ideas to get you started :
 -->
-<head>
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-            <link href='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css'>
-</head>
 - 🔭 I’m currently working on Frontend Web Technologies.
 - 🌱 I’m currently learning Frontend Libraries,Frame works,tools.
 - 👯 I’m looking to collaborate on Frontend Projects.
