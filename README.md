@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Podili Chaitanya Akhil Kumar.
 
 <!--
 **Ramuravi/Ramuravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started :
 - 📫 How to reach me: ramuravi928@gmail.com
 - 😄 Pronouns: TechAlchoholic
 - ⚡ Fun fact: I am a Self Learner.
-- <hr>
+ <hr>
          <a href="https://www.linkedin.com/in/podilichaitanyaakhilkumar" target='_blank' class="fab fa-linkedin">Linkedin</a>
 <a href="https://github.com/podilichaitanyaakhilkumar" target='_blank' class="fab fa-github"></a>
                         <a href="https://codepen.io/podilichaitanyaakhilkumar" target='_blank' class="fab fa-codepen"></a>
