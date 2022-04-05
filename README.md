@@ -13,6 +13,8 @@ Here are some ideas to get you started :
 - 😄 Pronouns: TechAlcoholic
 - ⚡ Fun fact: I am a Self Learner.
  <hr>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramuravi)](https://github.com/anuraghazra/github-readme-stats)
+         
          <a href="https://www.linkedin.com/in/podilichaitanyaakhilkumar" target='_blank' class="fab fa-linkedin"></a>
 <a href="https://github.com/podilichaitanyaakhilkumar" target='_blank' class="fab fa-github"></a>
                         <a href="https://codepen.io/podilichaitanyaakhilkumar" target='_blank' class="fab fa-codepen"></a>
