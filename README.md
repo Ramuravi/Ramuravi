@@ -14,7 +14,7 @@ Here are some ideas to get you started :
 - 📫 How to reach me: ramuravi928@gmail.com
 - 😄 Pronouns: TechAlchoholic
 - ⚡ Fun fact: I am a Self Learner.
-         <a href="https://www.linkedin.com/in/podilichaitanyaakhilkumar" target='_blank' class="fab fa-linkedin"></a>
+         <a href="https://www.linkedin.com/in/podilichaitanyaakhilkumar" target='_blank' class="fab fa-linkedin">Linkedin</a>
 <a href="https://github.com/podilichaitanyaakhilkumar" target='_blank' class="fab fa-github"></a>
                         <a href="https://codepen.io/podilichaitanyaakhilkumar" target='_blank' class="fab fa-codepen"></a>
                         <a href="https://stackoverflow.com/users/14310876/podili-chaitanya-akhil-kumar" target='_blank' class="fab fa-stack-overflow"></a>
