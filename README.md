@@ -8,7 +8,7 @@ Here are some ideas to get you started :
 <head>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
             <link href='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css'>
-        </head>
+</head>
 - 🔭 I’m currently working on Frontend Web Technologies.
 - 🌱 I’m currently learning Frontend Libraries,Frame works,tools.
 - 👯 I’m looking to collaborate on Frontend Projects.
@@ -17,6 +17,7 @@ Here are some ideas to get you started :
 - 📫 How to reach me: ramuravi928@gmail.com
 - 😄 Pronouns: TechAlchoholic
 - ⚡ Fun fact: I am a Self Learner.
+- <hr>
          <a href="https://www.linkedin.com/in/podilichaitanyaakhilkumar" target='_blank' class="fab fa-linkedin">Linkedin</a>
 <a href="https://github.com/podilichaitanyaakhilkumar" target='_blank' class="fab fa-github"></a>
                         <a href="https://codepen.io/podilichaitanyaakhilkumar" target='_blank' class="fab fa-codepen"></a>
