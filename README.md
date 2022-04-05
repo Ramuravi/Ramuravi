@@ -10,7 +10,7 @@ Here are some ideas to get you started :
 - 🤔 I’m looking for help with internships,job as frontend web Developer.
 - 💬 Ask me about anything I don't know, so I can learn new things.
 - 📫 How to reach me: ramuravi928@gmail.com
-- 😄 Pronouns: TechAlchoholic
+- 😄 Pronouns: TechAlcoholic
 - ⚡ Fun fact: I am a Self Learner.
  <hr>
          <a href="https://www.linkedin.com/in/podilichaitanyaakhilkumar" target='_blank' class="fab fa-linkedin"></a>
